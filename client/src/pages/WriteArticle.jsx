@@ -1,5 +1,5 @@
 import React from 'react'
-import { Sparkles } from 'lucide-react'
+import { Sparkles, Edit } from 'lucide-react'
 import { useState } from 'react'
 
 const WriteArticle = () => {
